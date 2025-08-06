@@ -6,9 +6,9 @@ ChatConnect is a modern real-time chat application developed using **Kotlin**, *
 
 ## 🔗 Demo
 
-**[https://drive.google.com/file/d/1rZDizv3mStcMBN7an3YznI5x-ff70118/view?usp=sharing](#)**  
+**[https://drive.google.com/file/d/15Fwk0cK2KxOVkKgGh7d-6DQneYTK5A0H/view?usp=drivesdk](#)**  
 
-**[https://github.com/Rohitmh09/android-chatconnect-real-time-chat-app.git](#)**
+**[https://github.com/OmkarShrikantMane/android-chatconnect.git](#)**
 
 ---
 
@@ -56,10 +56,3 @@ ChatConnect/
 └── settings.gradle                 # Gradle settings file
 
 ```
-
-## Author
-
-**Rohit Ananda Mahadik**  
-Student, **D Y Patil Agriculture and Technical University, Talsande**  
-Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
-
